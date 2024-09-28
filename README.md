@@ -8,8 +8,8 @@
 ## Installation
 
 ```sh
-git clone https://github.com/farhantk/DOT-Intern.git
-cd DOT-Intern
+git clone https://github.com/farhantk/Eigen-test-case.git
+cd Eigen-test-case
 npm install
 npx prisma migrate dev
 npm run seed
